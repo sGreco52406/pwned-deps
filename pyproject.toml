@@ -5,3 +5,4 @@ description = "Is your lockfile pwned? 5-second scan of npm/PyPI/Maven/Cargo/Go/
 requires-python = ">=3.10"
 # drop an unused branch
 # clarify the control flow
+# avoid re-reading the config on every call
